@@ -30,7 +30,7 @@ defaults:
     path: projects
   values:
     screenshots:
-      - item
+      - item:
           image:
           text:
     layout: page
