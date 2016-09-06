@@ -29,9 +29,9 @@ defaults:
 - scope:
     path: projects
   values:
-    colors:
-    - red
-    - green
-    - blue
+    screenshots:
+    - item:
+        image:
+        text:
     layout: page
 permalink: pretty
