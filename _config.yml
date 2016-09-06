@@ -8,6 +8,9 @@ collections:
   test-collection:
     title: Test Collection
     output: true
+    Screenshot:
+      image: 
+      text: 
   uploads:
     title: Uploads
     output: true
