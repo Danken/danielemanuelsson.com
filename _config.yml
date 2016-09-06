@@ -30,8 +30,7 @@ defaults:
     path: projects
   values:
     screenshots:
-    - item:
-        image:
-        text:
+      image:
+      text:
     layout: page
 permalink: pretty
