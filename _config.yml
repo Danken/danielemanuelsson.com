@@ -23,4 +23,9 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: 'projects'
+    type: documents
+  values:
+    layout: page
 permalink: pretty
