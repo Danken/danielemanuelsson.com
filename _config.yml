@@ -29,8 +29,8 @@ defaults:
 - scope:
     path: projects
   values:
-    - screenshots:
-        image:
-        text:
+    screenshots:
+      image:
+      text:
     layout: page
 permalink: pretty
