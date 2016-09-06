@@ -25,7 +25,7 @@ defaults:
     layout: page
 - scope:
 		path: "projects"
-		type: pages
+		type: projects
 		values:
 			colors: ["red", "green", "blue"]
 			layout: page
