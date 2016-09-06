@@ -24,9 +24,12 @@ defaults:
   values:
     layout: page
 - scope:
-    path: 'projects'
+    path: projects
     type: pages
   values:
-    colors: ["red", "green", "blue"]
+    colors:
+    - red
+    - green
+    - blue
     layout: page
 permalink: pretty
