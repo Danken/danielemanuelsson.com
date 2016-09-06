@@ -24,7 +24,7 @@ defaults:
   values:
     layout: page
 - scope:
-    path: 'projects'
+    path: projects
     type: documents
   values:
     layout: page
