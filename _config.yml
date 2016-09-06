@@ -24,8 +24,9 @@ defaults:
   values:
     layout: page
 - scope:
-    path: '/projects'
-    type: collection
+    title: Projects
+    path: '/projects/'
+    type: collections
   values:
     colors: ["red", "green", "blue"]
     layout: page
