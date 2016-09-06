@@ -2,6 +2,9 @@
 title: Danken
 timezone: Europe/Stockholm
 collections:
+  ideas:
+    title: Ideas
+    output: true
   posts:
     title: Posts
     output: true
